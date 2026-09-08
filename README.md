@@ -18,3 +18,6 @@ Day4 -
 * Strings
 
 Week2-
+
+Day1 - 
+* Arrays and Function types
